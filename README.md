@@ -1,6 +1,5 @@
+# FORK
 # MSSpeechServer
-
-[中文说明](https://github.com/xeden3/MSSpeechServer/blob/main/README_CN.md) | [日本語説明](https://github.com/xeden3/MSSpeechServer/blob/main/README_JP.md)
 
 ## Project Description
 
